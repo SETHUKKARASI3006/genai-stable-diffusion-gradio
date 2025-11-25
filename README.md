@@ -177,5 +177,17 @@ gr.close_all()
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a453c95a-66e6-482e-96c4-d808dfc6b5ac" />
 
+<img width="523" height="573" alt="image" src="https://github.com/user-attachments/assets/9b9a6985-5d39-455d-9aa0-09e8e891371e" />
+
+<img width="520" height="567" alt="image" src="https://github.com/user-attachments/assets/da48d410-7523-47b2-85f6-9075da30f3e9" />
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/7089877c-9bc4-4889-86d8-7ea34caab294" />
+
+<img width="526" height="573" alt="image" src="https://github.com/user-attachments/assets/ee403ed4-2d71-4de0-900f-66281379159d" />
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3422062c-9d4e-4a20-9067-54df7e3ca0b2" />
+
+<img width="535" height="558" alt="image" src="https://github.com/user-attachments/assets/ebdbce0d-754f-4f66-a9df-1ce407622682" />
+
 ### RESULT:
 Thus, a prototype application for image generation utilizing the Stable diffusion model is designed and deployed successfully.
